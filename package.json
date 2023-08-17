@@ -1,0 +1,15 @@
+{
+  "name": "socialgod-icons",
+  "version": "1.0.0",
+  "description": "Icons for the SocialGod application.",
+  "main": "src/index.ts",
+  "repository": "https://github.com/adrian-moloca/socialgod-icons.git",
+  "author": "Tiron Cristiano Raul <raul.tiron@smartboxdigital.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
